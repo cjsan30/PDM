@@ -29,6 +29,7 @@
 <img src="./images/common/f1.jpg">
 </p>
 <br>
+
 ### 공정 내 순이익
 <br>
 <p align="justify">
@@ -37,6 +38,7 @@
 <img src="./images/common/f2-2.jpg">
 </p>
 <br>
+
 ### 각 직급 별 월급
 <br>
 <p align="justify">
