@@ -32,16 +32,21 @@
 ## 구현 기능
 
 ### 기능 1
+<br>
 <p align="justify">
 <img src="./images/common/f1.png">
 </p>
+<br>
 ### 기능 2
+<br>
 <p align="justify">
 <img src="./images/common/f2.png">
 <img src="./images/common/f2-1.png">
 <img src="./images/common/f2-2.png">
 </p>
+<br>
 ### 기능 3
+<br>
 <p align="justify">
 <img src="./images/common/f3.png">
 </p>
@@ -61,4 +66,4 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/oracle.svg
+[oracle]: /images/stack/oracle.svg
